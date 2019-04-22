@@ -1,0 +1,2 @@
+/Applications/Unity/Spaceship/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
+/Applications/Unity/Spaceship/obj/Debug/Assembly-CSharp.csproj.CoreCompileInputs.cache

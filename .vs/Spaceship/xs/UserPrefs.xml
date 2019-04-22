@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{7D098825-1966-41E2-1E5C-EC88DC0E6F43}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GameController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/ShipMovement.cs" Line="42" Column="45" />
+      <File FileName="Assets/Scripts/GameController.cs" Line="34" Column="42" />
+      <File FileName="Assets/Scripts/Wormhole.cs" Line="19" Column="38" />
+      <File FileName="Assets/Scripts/Asteroid.cs" Line="11" Column="35" />
+      <File FileName="Assets/Scripts/MusicPlayer.cs" Line="20" Column="29" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
